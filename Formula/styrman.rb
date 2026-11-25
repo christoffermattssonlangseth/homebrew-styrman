@@ -4,7 +4,7 @@ class Styrman < Formula
   desc "Steer your coding agents (Claude Code, Codex, agy) from your iPhone"
   homepage "https://github.com/christoffermattssonlangseth/styrman"
   url "https://github.com/christoffermattssonlangseth/styrman/releases/download/v0.1.0/styrman-0.1.0-aarch64-apple-darwin.tar.gz"
-  sha256 "c26192d022ec6d3bf567996cccc05ec9fbeff3bf253d5ae8b593efae4ee01ccc"
+  sha256 "96274921bdc56be385a0f796cd78f6282f7f82987e6a6619d0ef83faced0c3c6"
   version "0.1.0"
   license "MIT"
 
